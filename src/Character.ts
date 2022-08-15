@@ -1,5 +1,5 @@
 import Race from './Races';
-import Elf from './Races/elf';
+import Elf from './Races/Elf';
 import Archetype, { Mage } from './Archetypes';
 
 import Energy from './Energy';

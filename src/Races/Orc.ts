@@ -1,4 +1,4 @@
-import Race from './races';
+import Race from './Races';
 
 export default class Orc extends Race {
   private _maxLifePoints: number;
