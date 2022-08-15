@@ -1,4 +1,4 @@
-import Fighter from '../Archetypes/Fighter';
+import Fighter from '../Fighter/Fighter';
 import Battle from './Battle';
 
 export default class PVP extends Battle {

@@ -3,10 +3,10 @@ import Elf from './Races/Elf';
 import Archetype, { Mage } from './Archetypes';
 
 import Energy from './Energy';
-import Fighter from './Archetypes/Fighter';
+import Fighter from './Fighter/Fighter';
 
 import getRandomInt from './utils';
-import SimpleFighter from './Archetypes/SimpleFighter';
+import SimpleFighter from './Fighter/SimpleFighter';
 
 export default class Character implements Fighter {
   private _race: Race;

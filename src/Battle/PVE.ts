@@ -1,5 +1,5 @@
-import Fighter from '../Archetypes/Fighter';
-import SimpleFighter from '../Archetypes/SimpleFighter';
+import Fighter from '../Fighter/Fighter';
+import SimpleFighter from '../Fighter/SimpleFighter';
 import Battle from './Battle';
 import Monster from '../Monster';
 

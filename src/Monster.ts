@@ -1,4 +1,4 @@
-import SimpleFighter from './Archetypes/SimpleFighter';
+import SimpleFighter from './Fighter/SimpleFighter';
 
 export default class Monster implements SimpleFighter {
   protected _lifePoints: number;
